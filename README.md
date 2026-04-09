@@ -17,5 +17,6 @@ for(j = 2; j <= i / 2; j++)
  printf("%d ", i);
         }
     }
+ printf("\n25331A05I6");
  return 0;
 }
